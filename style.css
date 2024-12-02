@@ -1,0 +1,24 @@
+body{color: #0e0f0dec;
+     background-color: azure;
+
+}
+img{
+    width: 30%;
+}
+h1{
+     background-color: rgba(19, 33, 157, 0.788);
+     text-align: center;
+} h2{
+    border-color: bisque;
+    text-align: center;
+}
+body{
+     display: flex;
+    background-color: rgba(155, 152, 160, 0.91);
+}
+#photo1{
+    background-color: aqua;
+}
+#photo2{
+    background-color: antiquewhite ;
+}
